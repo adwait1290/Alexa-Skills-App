@@ -1,0 +1,44 @@
+Intent I would
+YesIntent Yes I would
+YesIntent Yes please
+YesIntent Yes Ma'am
+YesIntent yes
+YesIntent sure
+YesIntent for sure
+YesIntent lets go
+YesIntent yeah
+NoIntent no
+NoIntent nope
+NoIntent negative ghostrider
+NoIntent nah
+NoIntent na
+GlobalIntent I would like Global and {number}
+GlobalIntent I would like {number} Global News headlines
+GlobalIntent Global and {number}
+GlobalIntent Let's go Global and {number}
+GlobalIntent Let's go with Global and {number}
+GlobalIntent Let's go with {number} and Global
+GlobalIntent {number} and Global
+GlobalIntent Start news reader Global and {number} headlines
+LocalIntent I would like Local and {number}
+LocalIntent I would like {number} Local headlines
+LocalIntent Local and {number}
+LocalIntent Let's go Local and {number}
+LocalIntent Let's go with Local and {number}
+LocalIntent Let's go with {number} and Local
+LocalIntent {number} and Local
+LocalIntent Start news reader for Local News and {number} headlines
+TechIntent I would like Tech and {number}
+TechIntent I would like {number} Tech headlines
+TechIntent I would like {number} Technological headlines
+TechIntent Technological and {number}
+TechIntent Let's go Technological and {number}
+TechIntent Let's go with Technological and {number}
+TechIntent Let's go with {number} and Technological
+TechIntent {number} and Technological
+TechIntent Tech and {number}
+TechIntent Let's go Tech and {number}
+TechIntent Let's go with Tech and {number}
+TechIntent Let's go with {number} and Tech
+TechIntent {number} and Tech
+TechIntent Start news reader for Technology and {number} headlines

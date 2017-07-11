@@ -1,0 +1,35 @@
+{
+  "intents": [
+    {
+      "intent": "YesIntent"
+    },
+    {
+      "intent": "NumIntent",
+      "slots": [
+        {
+          "name": "number",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "NoIntent"
+    }
+  ]
+}YesIntent I would
+YesIntent Yes I would
+YesIntent Yes please
+YesIntent Yes Ma'am
+YesIntent yes
+YesIntent sure
+YesIntent for sure
+YesIntent lets go
+YesIntent yeah
+NumIntent {number}
+NumIntent {number} headlines
+NumIntent lets go with {number}
+NoIntent no
+NoIntent nope
+NoIntent negative ghostrider
+NoIntent nah
+NoIntent na
